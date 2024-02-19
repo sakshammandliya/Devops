@@ -1,0 +1,53 @@
+Cloud deployment models -->
+
+
+When adopting cloud architecture, there are three different types of cloud deployment models that help deliver cloud computing services: public cloud, private cloud, and hybrid cloud. 
+
+
+1).Public cloud=>
+
+Public clouds deliver resources, such as compute, storage, network, develop-and-deploy environments, and applications over the internet. They are owned and run by third-party cloud service providers like Google Cloud.
+
+2).Private cloud=>
+
+Private clouds are built, run, and used by a single organization, typically located on-premises. They provide greater control, customization, and data security but come with similar costs and resource limitations associated with traditional IT environments.
+
+3).Hybrid cloud=>
+
+Environments that mix at least one private computing environment (traditional IT infrastructure or private cloud, including edge) with one or more public clouds are called hybrid clouds. They allow you to leverage the resources and services from different computing environments and choose which is the most optimal for the workloads. 
+  ------------------------x-----------------------------x--------------------------x------------------------x---------------------------------
+
+      Types of cloud services: IaaS vs. PaaS vs. SaaS vs. serverless models -->
+
+1).Infrastructure as a Service (IaaS) => 
+                                        Buying pre-packed ingredients like fresh pasta and sauce made by someone else that you use to cook at home. 
+
+2).Platform as a Service (PaaS) => 
+                                  Order takeout or delivery where your meal is prepared for you and you don’t have to worry about the ingredients or how you’ll cook it, but you have to worry about where you’ll eat, the utensils, and cleaning up after your meal.
+ 
+3).Software as a Service (SaaS) => 
+                                   Call ahead to the restaurant and order the exact meal you want. They prepare everything ahead of time for you so that all you have to do is show up and eat. 
+                                   
+4). Serverless =>
+                  Go out to dinner and order pasta at a restaurant, alone or with friends. You pay and eat whatever you want and the restaurant makes sure there’s enough ingredients and staff to create the order without a long wait.
+-------------------------x---------------------------------------x-----------------------------------x----------------------------------------
+      
+     Characteristics of Cloud Computing =>
+     
+    There are many characteristics of Cloud Computing here are few of them :
+
+1).On-demand self-services =>
+                            The Cloud computing services does not require any human administrators, user themselves are able to provision, monitor and manage computing resources as needed.
+                            
+2).Broad network access =>
+                          The Computing services are generally provided over standard networks and heterogeneous devices.
+3).Rapid elasticity =>
+                      The Computing services should have IT resources that are able to scale out and in quickly and on as needed basis. Whenever the user require services it is provided to him and it is scale out as soon as its requirement gets over.
+                      
+4).Resource pooling =>
+                      The IT resource (e.g., networks, servers, storage, applications, and services) present are shared across multiple applications and occupant in an uncommitted manner. Multiple clients are provided service from a same physical resource.                                                                                           
+
+5).Measured service =>
+                      The resource utilization is tracked for each application and occupant, it will provide both the user and the resource provider with an account of what has been used. This is done for various reasons like monitoring billing and effective use of resource.
+
+-------------------x------------------------------------x------------------------------------------x------------------------------------------
