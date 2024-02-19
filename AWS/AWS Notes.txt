@@ -1,0 +1,38 @@
+Customer = Responsibility for the security in the cloud
+AWS = Responsibility for the security of the cloud
+
+AWS Acceptable use policy -->
+    (1) No ililegal, Harmful, or offensive use or content
+    (2) No Security Violations.
+    (3) No Network Abuse
+    (4) No E-Mail or other Message Abuse
+    
+You ONLY want to manage Applications and Data. Which type of Cloud Computing model should you use? -- ans=Platform as a service(paas)
+
+What is the pricing model of Cloud Computing? - ans= Pay-as-you-go pricing
+
+Which Global Infrastructure identity is composed of one or more discrete data centers with redundant power, networking, and connectivity, and are used to deploy infrastructure? -ans= Availability Zones
+
+Which of the following is NOT one of the Five Characteristics of Cloud Computing?-ans= Dedicated Support Agent to help you deploy applications
+
+Which are the 3 pricing fundamentals of the AWS Cloud?-ans= Compute,Storage and Data transfer out of the AWS Cloud
+
+Which of the following options is NOT a point of consideration when choosing an AWS Region?-ans= Capacity availability
+
+Which of the following is NOT an advantage of Cloud Computing?-ans= Train your employees less
+
+AWS Regions are composed of?-ans= Three or more Availability Zones
+
+Which of the following services has a global scope?-ans= IAM
+
+Which of the following is the definition of Cloud Computing?-ans=On-demand availability of computer sysytem resources.especially data storage (cloud storage) and computing power.without direct active management by the user
+
+What defines the distribution of responsibilities for security in the AWS Cloud?-ans= The Shared Responsibility Model
+
+A company would like to benefit from the advantages of the Public Cloud but would like to keep sensitive assets in its own infrastructure. Which deployment model should the company use?
+
+ans=Hybrid Cloud
+
+What is NOT authorized to do on AWS according to the AWS Acceptable Use Policy?-ans= Run analytics on stolen content
+
+
